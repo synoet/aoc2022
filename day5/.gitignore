@@ -1,0 +1,26 @@
+# Rust/Cargo files
+target/
+**/target/
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+*.d
+*.o
+*.a
+*.rlib
+*.dylib
+*.so
+*.exe
+*.dll
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+.DS_Store
+
